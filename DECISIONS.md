@@ -1,4 +1,4 @@
-# EIA-930 Data Quality: Decisions & Method
+# EIA-930 Data Quality: Decisions & Method (AI-GENERATED SUMMARIES INCLUDED)
 
 *Project: Data-Center Demand Growth & Generation-Interconnection Queue Congestion — Luke W. Jones*
 *Written 2026-08-05. Covers the data-quality work on the EIA-930 hourly demand pull (Phase 1).*
