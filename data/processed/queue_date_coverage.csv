@@ -1,0 +1,9 @@
+region,outcome,date_field,n_projects,n_dated,pct_projects_dated,mw_total,mw_dated,pct_mw_dated,first_dated_year
+PJM,operational,on_date,1192,1185,99.4,97617.3,96747.3,99.1,2000
+ERCOT,operational,on_date,613,519,84.7,95296.2,78201.2,82.1,2012
+MISO,operational,on_date,515,497,96.5,73274.0,71118.7,97.1,2000
+SPP,operational,on_date,299,288,96.3,45090.3,44365.2,98.4,2002
+PJM,withdrawn,wd_date,5226,5140,98.4,638117.3,613867.8,96.2,1999
+ERCOT,withdrawn,wd_date,1158,564,48.7,261974.9,104291.7,39.8,2018
+MISO,withdrawn,wd_date,3263,3061,93.8,622888.2,571078.0,91.7,2002
+SPP,withdrawn,wd_date,1846,1343,72.8,382862.9,260797.1,68.1,2004

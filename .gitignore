@@ -1,0 +1,31 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data outputs (large; regenerate with the pull/clean scripts)
+data/raw/
+data/interim/
+*.csv.gz
+
+# data/processed/ — small, cited outputs are tracked individually below
+data/processed/*
+!data/processed/excluded_hours.csv
+!data/processed/analysis_panel.csv
+!data/processed/diagnostic_model_results.csv
+!data/processed/queue_date_coverage.csv
+!data/processed/queue_outcomes_panel.csv
+!data/processed/withdrawal_rates.csv
+!data/processed/eia930_hourly_demand.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
